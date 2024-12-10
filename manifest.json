@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Hide traQ Activity",
+  "version": "1.0",
+  "description": "traQ のアクティビティを非表示にする拡張機能",
+  "host_permissions": ["https://q.trap.jp/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://q.trap.jp/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ]
+}
