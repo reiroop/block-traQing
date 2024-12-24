@@ -3,7 +3,7 @@ const observer = new MutationObserver(() => {
     [
       "button._container_wvyby_1._item_1ayy2_16:nth-of-type(4)", // アクティビティ
       "button._container_wvyby_1._item_1ayy2_16:nth-of-type(5)", // ユーザー一覧
-      "button._button_13ffs_1:nth-of-type(1)", // チャンネルリストのチャンネル一覧
+      "button._button_litv4_1:nth-of-type(1)", // チャンネルリストのチャンネル一覧
       "button._container_155zf_1._container_1y1aw_1._item_1aipo_8:nth-of-type(1)", // メッセージ検索
       "button._container_155zf_1._container_1y1aw_1._item_1aipo_8:nth-of-type(3)", // QRコード
       "div._item_1wkxu_1:nth-last-of-type(1)", // ホームのチャンネルリスト
